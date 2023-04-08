@@ -1,0 +1,146 @@
+body {
+    background-color: rgb(241, 195, 161);
+    font-family: sans-serif;
+  }
+  
+  .center-content {
+    text-align: center;
+    display: block;
+    clear: both;
+  }
+  
+  .float-content {
+    width: 100%;
+  }
+  
+  h1 {
+    color: rgb(238, 122, 109);
+    font-size: 4em;
+    font-family: fantasy;
+    line-height: 1em;
+    margin-top: 1.5em;
+  }
+  
+  h2 {
+    color: rgb(146, 182, 118);
+    font-family: georgia;
+    font-size: 2.5em;
+    line-height: 1em;
+  }
+  
+  h3 {
+    background-color: rgb(237, 180, 91);
+    color: rgb(255, 255, 255);
+    font-family: georgia;
+    font-size: 1.5em;
+    line-height: 1.5em;
+  }
+  
+  p {
+    color: rgb(39, 29, 28);
+  }
+  
+  img {
+    width: 45%;
+    border-style: outset;
+    border-width: 0.5em;
+    border-color: salmon;
+  }
+  
+  .gif {
+    width: 5em;
+    border-style: none;
+    display: block;
+    margin: auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
+  }
+  
+  .scream-text {
+    font-size: 2em;
+    line-height: 1.2em;
+    color: rgb(237, 180, 91);
+    text-shadow: 2px 2px 4px #600030;
+  }
+  
+  .small-images {
+    width: 60%;
+    margin: auto;
+  }
+  
+  div img {
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+  }
+  
+  div.float-content img {
+    float: left;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 2%;
+    width: 40%;
+  }
+  
+  .txt-float {
+    display: block;
+    line-height: 1.5em;
+  }
+  
+  #soft-text-1 {
+    font-size: 1.2em;
+    color: rgb(238, 122, 109);
+  }
+  
+  #soft-text-2 {
+    font-size: 1.5em;
+    color: rgb(146, 182, 118);
+  }
+  
+  #soft-text-3 {
+    font-size: 2em;
+    color: rgb(238, 122, 109);
+  }
+  
+  table.center {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0.5em;
+  }
+  
+  th {
+    font-size: 2em;
+    font-family: georgia;
+    color: rgb(146, 182, 118);
+    padding-bottom: 0.5em;
+  }
+  
+  td {
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    padding-bottom: 1em;
+    font-weight: bold;
+  }
+  
+  #links {
+    text-align: center;
+  }
+  
+  a:link {
+    color: rgb(238, 122, 109);
+  }
+  
+  a:active {
+    color: rgb(146, 182, 118);
+  }
+  
+  a:visited {
+    color: rgb(146, 182, 118);
+  }
+  
+  hr.rounded {
+    border-top: 6px solid salmon;
+    border-radius: 5px;
+    width: 60%;
+    margin-top: 3em;
+  }
+  
